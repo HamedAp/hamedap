@@ -38,3 +38,12 @@
     <br/>
   <p align="left" style="margin-right:10rem"><a href="https://github.com/HamedAp"><img alt="Nur Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedAp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><p/>
   <br/>
+
+
+
+
+## ❤ Views and Followers
+<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=HamedAp">
+</a>
+<a href="https://github.com/HamedAp?tab=followers"><img src="https://img.shields.io/github/followers/HamedAp?label=Followers&style=social" alt="GitHub Badge"></a>
