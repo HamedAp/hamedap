@@ -26,20 +26,6 @@
 
 
 
-## 📊 My Github Stats
-
- <a href="https://github.com/nurahmed123/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nur Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HamedAp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  
-  
-  <br/>
-    <p align="left"><a href="https://github.com/HamedAp"><img alt="HamedAp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamedAp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-    <br/>
-  <p align="left" style="margin-right:10rem"><a href="https://github.com/HamedAp"><img alt="Nur Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedAp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><p/>
-  <br/>
-
-
 
 
 ## ❤ Views and Followers
